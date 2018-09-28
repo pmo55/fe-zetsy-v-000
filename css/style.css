@@ -36,6 +36,9 @@ h1 {
 	border-bottom: 1px solid #ccc;
 }
 
+p {
+  font-size: 1em;
+}
 
 h2 {
   color: rgb(111,127,122);
