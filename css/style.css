@@ -38,7 +38,8 @@ h1 {
 
 p {
   font-size: 1em;
-  color: #555;
+  color: #555
+  text-align: right;
 }
 
 h2 {
